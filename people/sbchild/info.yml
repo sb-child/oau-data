@@ -1,0 +1,6 @@
+id: sbchild
+profileUrl: ${path}/photos/profile.jpg
+websites:
+  github: https://github.com/sb-child
+info:
+  died: "2024-10-02"
